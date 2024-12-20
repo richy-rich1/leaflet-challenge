@@ -1,14 +1,11 @@
 # USGS Earthquake Data Visualization Project
 
-![USGS Logo](https://earthquake.usgs.gov/theme/images/usgs-logo.svg)
 
 ## Project Overview
 Developed an interactive web-based visualization system for the United States Geological Survey (USGS) to display real-time earthquake data globally. This tool addresses USGS's need for effective data presentation to educate the public and other government organizations about seismic activity worldwide.
 
 ## Technical Challenge
 The USGS collects vast amounts of seismic data globally, updated at 5-minute intervals. The challenge was to transform this extensive dataset into an intuitive, interactive visualization that could effectively communicate earthquake patterns and risks to both technical and non-technical audiences.
-
-## Implementation Details
 
 ### Data Integration
 - Integrated with USGS GeoJSON Feed API for real-time earthquake data
@@ -53,7 +50,7 @@ This visualization tool enables USGS to:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/usgs-earthquake-visualization.git
+git clone 
 ```
 
 2. Navigate to the project directory:
@@ -79,14 +76,12 @@ cd usgs-earthquake-visualization
 ## Contributing
 
 1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
+2. Create your feature branch 
+3. Commit your changes 
+4. Push to the branch
 5. Open a Pull Request
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
@@ -94,7 +89,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - Leaflet.js for the mapping functionality
 - All contributors who have helped with the project
 
-## Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-Project Link: [https://github.com/yourusername/usgs-earthquake-visualization](https://github.com/yourusername/usgs-earthquake-visualization)
